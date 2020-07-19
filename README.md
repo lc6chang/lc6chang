@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+What an amazing feature!
+
+- 🌱 I’m currently learning programming and cloud computing.
+- 📫 How to reach me: lc6chang@gmail.com
