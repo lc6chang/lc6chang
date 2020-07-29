@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-What an amazing feature!
 
-- 🌱 I’m currently learning programming and cloud computing.
+- 🌱 I’m currently learning shell script, linux and AWS.
 - 📫 How to reach me: lc6chang@gmail.com
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lc6chang&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lc6chang&layout=compact)
