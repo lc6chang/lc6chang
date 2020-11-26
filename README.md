@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   - *Computer Networking: A Top-Down Approach* (《计算机网络自顶向下方法》)
   - *Advanced Programming in the UNIX Environment* (《UNIX环境高级编程》)
   - *C++ Primer Plus*
+  - *Design Patterns: Elements of Reusable Object-Oriented Software* (《设计模式-可复用面向对象软件的基础》)
 - 📫 How to reach me: lc6chang@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lc6chang&count_private=true&show_icons=true)
